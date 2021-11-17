@@ -2,7 +2,6 @@
 <hr>
 
 <h2>Sobre: </h2>
-<hr>
 
 :writing_hand: :rocket:
 
@@ -12,10 +11,11 @@
 
 <p>O qual, cada integrante era responsável por uma branch.</p>
 
+<hr>
 <h2>Integrantes: </h2>
 
 <ul>
-    <li><strong>Bruna</strong></li>
+    <li><strong>Bruna Thompson</strong></li>
     <li><strong>Guilherme Leme</strong></li>
-    <li><strong>Luz</strong></li>
+    <li><strong>luiza Victoria (Nome social: Luz)</strong></li>
 </ul>

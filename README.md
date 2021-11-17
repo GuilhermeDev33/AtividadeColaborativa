@@ -18,4 +18,5 @@
     <li><strong>Bruna Thompson</strong></li>
     <li><strong>Guilherme Leme</strong></li>
     <li><strong>luiza Victoria (Nome social: Luz)</strong></li>
+    <li>Adicionando para a branch: tarefaGui</li>
 </ul>

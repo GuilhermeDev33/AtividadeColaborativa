@@ -15,7 +15,7 @@
 <h2>Integrantes: </h2>
 
 <ul>
-    <li><strong>Bruna</strong></li>
+    <li><strong>Bruna Thompson</strong></li>
     <li><strong>Guilherme Leme</strong></li>
     <li><strong>Luz</strong></li>
 </ul>

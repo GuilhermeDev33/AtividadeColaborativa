@@ -19,3 +19,7 @@
     <li><strong>Guilherme Leme</strong></li>
     <li><strong>Luz</strong></li>
 </ul>
+
+<ul>
+<strong> 
+<li>Adição para a branch: tarefa/Bruna</li></strong>

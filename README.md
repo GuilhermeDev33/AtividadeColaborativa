@@ -17,6 +17,15 @@
 <ul>
     <li><strong>Bruna Thompson</strong></li>
     <li><strong>Guilherme Leme</strong></li>
+  tarefa/Bruna
+    <li><strong>Luz</strong></li>
+</ul>
+
+<ul>
+<strong> 
+<li>Adição para a branch: tarefa/Bruna</li></strong>
+
     <li><strong>luiza Victoria (Nome social: Luz)</strong></li>
     <li><strong>Adicionando para a branch: tarefaGui<strong></li>
 </ul>
+
